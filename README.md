@@ -1,12 +1,27 @@
 # Hello trees
 
-A map made from Lidar dervied surface elevations and made in ArcGIS Pro/ Spring 2025
+A map made from Lidar dervied surface elevations and made in ArcGIS Pro/ Spring 2025 for field trip 
 
 * Data from kyraster.ky gov
 * NDVI greater 0.1 values used to fidn vegetated areas 
 * Heights greater 5 feet 
 
-[Visit my webpage](https://web.archive.org/web/20250000000000*/outragous%20GIS)
+## My State Map
+
+![Ky-Landcover](<Layout Ky-Land-Cover-1.jpg>)
+
+*Download [GeoPDF](RealLandcover.pdf)*
+
+## My Tree Canopy Campus Model
+![Tree Canopy Campus Model](Layout_Tree_Canopy_Model-2.jpg)
+
+*Download [GeoPDF](Layout_Tree_Canopy_Model.pdf)*
+
+
+
+
+
+[Visit my webpage](https://hyperplaced.github.io/Hello-World/)
 
 
 
